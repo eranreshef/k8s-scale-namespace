@@ -45,7 +45,7 @@ This script provides a way to **scale down or scale up all Deployments and State
 
 ---
 
-## 🧩 Improvements You Could Add
+## 🧩 Future Improvements
 
 - Dry-run mode to simulate changes
 - Support for more Kubernetes resource types
